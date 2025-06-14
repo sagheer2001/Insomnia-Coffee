@@ -16,7 +16,7 @@ To develop a custom Information System that supports daily operations by enablin
 - 📊 **Sales Reporting** – Daily sales summaries and best-seller analytics.
 
 **Google Maps Link**: [Insomnia Coffee Company](https://g.co/kgs/dFfvMW2)  
-**GitHub Repository**: _Pending_
+**GitHub Repository**: [Git Repo Link] (https://github.com/sagheer2001/Insomnia-Coffee.git)
 
 ---
 
